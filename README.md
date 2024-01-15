@@ -1,2 +1,3 @@
-# xdrip4ios_docs
- Documentation for xDrip4iOS project
+XDRIP_DEVELOPMENT_TEAM = X03XXRJ9J0
+
+MAIN_APP_BUNDLE_IDENTIFIER = com.$(DEVELOPMENT_TEAM).xdripswift
